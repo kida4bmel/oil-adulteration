@@ -1,1 +1,1 @@
-
+This code belongs to the following article: Said El Harkaoui, Cristina Ortiz Cruz, Aaron Roggenland, Micha Schneider, Sascha Rohn, Stephan Drusch and Bertrand Matthäus (2025): Adulteration detection in cactus seed oil: Integrating analytical chemistry and machine learning approaches, Current Research in Food Science, Volume 10, https://doi.org/10.1016/j.crfs.2025.100986.
